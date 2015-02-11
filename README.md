@@ -15,7 +15,7 @@ Suggestions & Pull Requests are welcome!
 
 Riley Who?
 ----------
-[Riley Poole](www.nationaltreasure.wikia.com/wiki/Riley_Poole)
+[Riley Poole](nationaltreasure.wikia.com/wiki/Riley_Poole)
 
 I like to think Riley is the kind of guy who would have wanted something like this to exist.
 
