@@ -11,11 +11,11 @@ http://rileypoole.herokuapp.com/api/locations.json
 
 Contribute
 -----------
-Suggestions & pull requests are welcomed!
+Suggestions & Pull Requests are welcome!
 
 Riley Who?
 ----------
-[Riley_Poole](www.nationaltreasure.wikia.com/wiki/Riley_Poole)
+[Riley Poole](www.nationaltreasure.wikia.com/wiki/Riley_Poole)
 
 I like to think Riley is the kind of guy who would have wanted something like this to exist.
 
