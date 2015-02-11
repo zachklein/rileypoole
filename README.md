@@ -6,7 +6,7 @@ A simple Node app that creates an API endpoint for the [National Park Service da
 Inspired by [a tweet by Zach Kelin](http://twitter.com/zachklein/status/565387078733955072)
 
 Endpoint accessible at:
-http://rileypoole.herokuapp.com/api/locations.json
+http://riley-poole.herokuapp.com/api/locations.json
 
 
 Contribute
