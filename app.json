@@ -1,5 +1,5 @@
 {
-  "name": "Riley Poole historical architecture DB",
+  "name": "Riley Poole National Park Data DB",
   "description": "A barebones Node.js app using Express 4",
   "repository": "https://github.com/domjitsu/riley-poole"
 }
